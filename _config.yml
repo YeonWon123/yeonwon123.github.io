@@ -7,11 +7,11 @@
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: YeonWon's devblog               # the main title
+title: 윤원의 기술 블로그                           # the main title
 
-tagline: 자주 기록하고 오래 기억하자!         # it will display as the sub-title
+tagline: 자주 기록하고 오래 기억하자!          # it will display as the sub-title
 
-description: 설명을 쓰는 곳인가 봐요! >-     # used by seo meta and the atom feed
+description: >-     # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
   bootstrap Jekyll theme with responsive web design
   and focuses on text presentation.
@@ -28,12 +28,12 @@ twitter:
   username: twitter_username            # change to your twitter username
 
 social:
-  name: github.com/YeonWon123           # it will shows as the copyright owner in Footer
+  name: YeonWon           # it will shows as the copyright owner in Footer
   email: weonwon123@naver.com           # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://github.com/YeonWon123     # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
