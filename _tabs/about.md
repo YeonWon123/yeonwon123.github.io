@@ -23,5 +23,5 @@ order: 4
 >
 > GitHub : github.com/YeonWon123
 >
-> Mail : weonwon123@naver.com / yunwon123@nhn.com
+> Mail : weonwon123@naver.com / yunwon.nam@nhn.com
 
